@@ -17,24 +17,19 @@
 - **Frankfurter API** – Döviz verileri için ücretsiz API  
 
 ## Kurulum
-
-1. Depoyu klonlayın:  
 ```bash
-git clone <repo-url>
+1. Depoyu klonlayın:  
+git clone https://github.com/gorkemkaragl/kur-takip.git
 
 2. Proje dizinine gidin:
-```bash
 cd kur-takip
 
 3. Gerekli paketleri yükleyin:
-```bash
 npm install
 
 4. Geliştirme sunucusunu başlatın:
-```bash
 npm run dev
 
 5. Tarayıcıda açın:
-```bash
 http://localhost:3000
 
